@@ -9,7 +9,7 @@ kernelspec:
   name: python3
 ---
 
-# Python Programming for Economics and Finance Phiên bản Việt Nam
+# Lập trình Python cho kinh tế và tài chính
 
 This website presents a set of lectures on Python programming for economics and finance, designed and written by
 [Thomas J. Sargent](http://www.tomsargent.com/) and [John Stachurski](http://johnstachurski.net/). This is the first text in the series, which focuses on programming in Python.
