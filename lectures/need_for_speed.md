@@ -7,6 +7,7 @@ kernelspec:
   display_name: Python 3
   language: python
   name: python3
+published: true
 ---
 
 (speed)=
@@ -31,10 +32,10 @@ premature optimization is the root of all evil." -- Donald Knuth
 
 ## Overview
 
-Python is extremely popular for scientific computing, due to such factors as
+Python là một ngôn ngữ cực kỳ thông dụng dành cho khoa học tính toán bởi vì một số ưu thế sau:
 
-* the accessible and flexible nature of the language itself,
-* the huge range of high quality scientific libraries now available,
+* sự linh hoạt và dễ tiếp cận,
+* có sẵn một số lượng lớn thư viện tính toán với chất lượng cao,
 * the fact that the language and libraries are open source,
 * the popular Anaconda Python distribution, which simplifies installation and
   management of those libraries, and
@@ -474,4 +475,3 @@ It does so through something called **just in time (JIT) compilation**,
 which can generate extremely fast and efficient code.
 
 We'll learn how to use Numba {doc}`soon <numba>`.
-
