@@ -1,7 +1,7 @@
 title: Lập trình Python cho kinh tết và tài chính
 author: Thomas J. Sargent & John Stachurski
 logo: _static/qe-logo.png
-description: This website presents a set of lectures on python programming for economics, designed and written by Thomas J. Sargent and John Stachurski.
+description: Trang web này bao gồm các bài giảng về lập trình Python cho kinh tế và tài chính, được thiết kế và biên soạn bởi Thomas J. Sargent và John Stachurski. Bản dịch tiếng Việt được thực hiện bởi Huỳnh Văn Duy, Trương Nhật Hoàng và hiệu đính bởi Nguyễn Thanh Hiên.
 
 execute:
   execute_notebooks: "cache"
