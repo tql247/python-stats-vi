@@ -1,4 +1,4 @@
-name: lecture-python-programming
+name: pyecon
 channels:
   - default
 dependencies:
@@ -14,4 +14,3 @@ dependencies:
     - interpolation
     - git+https://github.com/QuantEcon/sphinx-tojupyter.git
     - git+https://github.com/QuantEcon/quantecon-book-theme.git
-
