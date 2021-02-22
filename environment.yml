@@ -1,4 +1,4 @@
-name: lecture-python-programming
+name: pyecon
 channels:
   - default
 dependencies:
@@ -13,4 +13,3 @@ dependencies:
     - interpolation
     - sphinx-tojupyter
     - quantecon-book-theme
-
