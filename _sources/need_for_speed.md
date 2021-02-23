@@ -38,8 +38,7 @@ Python là một ngôn ngữ cực kỳ thông dụng dành cho khoa học tính
 * có sẵn một số lượng lớn thư viện tính toán với chất lượng cao,
 * ngôn ngữ lập trình và các thư viện hầu như đều là mã nguồn mỡ,
 * Anaconda là một bản phân phối phổ biến của Python, giúp đơn giản hoá việc cài đặt và quản lý các thư viện,
-* the recent surge of interest in using Python for machine learning and
-  artificial intelligence.
+* Python nhận được sự quan tâm ngày càng lớn khi được dùng trong học máy và trí tuệ nhân tạo.
 
 In this lecture we give a short overview of scientific computing in Python,
 addressing the following questions:
