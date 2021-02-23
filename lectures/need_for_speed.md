@@ -42,8 +42,8 @@ Python là một ngôn ngữ cực kỳ thông dụng dành cho khoa học tính
 
 Trong bài giảng này, chúng tôi đưa ra một giới thiệu tổng quan về lập trình Python dành cho khoa học tính toán để giúp trả lời những câu hỏi sau:
 
-* What are the relative strengths and weaknesses of Python for these tasks?
-* What are the main elements of the scientific Python ecosystem?
+* Điểm mạnh và điểm yếu của Python trong lập trình tính toán khoa học là gì?
+* Thành phần chính của Python dành cho lập trình tính toán khoa học là gì?
 * How is the situation changing over time?
 
 In addition to what's in Anaconda, this lecture will need
