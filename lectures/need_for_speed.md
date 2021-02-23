@@ -75,10 +75,9 @@ Vì thế ta cần những thư viện được thiết kế để tăng tốc t
 
 Như chúng ta có thể thấy ở dưới, những thư viện Python hiện nay có khả năng làm điều đó cực kỳ tốt.
 
-### Python's Scientific Ecosystem
+### Hệ sinh thái lập trình tính toán khoa học của Python
 
-In terms of popularity, the big four in the world of scientific Python
-libraries are
+Trong khía cạnh của sự phổ biến, "big four" những thư viện tính toán khoa học của Python trên thế giới chính là
 
 * NumPy
 * SciPy
