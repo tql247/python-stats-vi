@@ -61,11 +61,9 @@ Chúng ta hãy xem xét sơ lượt các thư viện khoa học của Python, b�
 
 ### Vai trò của thư viện tính toán khoa học
 
-One obvious reason we use scientific libraries is because they implement
-routines we want to use.
+Một lí do rõ ràng cho việc sử dụng những thư viện dạng này là vì chúng cung cấp sẵn hàm để giải quyết các tác vụ chúng ta cần.
 
-For example, it's almost always better to use an existing routine for root
-finding than to write a new one from scratch.
+Ví dụ như sẽ dễ dàng hơn nhiều nếu chúng ta sử dụng hàm tìm căn bậc hai được cung cấp sẵn thay vì tìm cách tự cài đặt nó từ đầu.
 
 (For standard algorithms, efficiency is maximized if the community can coordinate on a
 common set of implementations, written by experts and tuned by users to be as fast and robust as possible.)
