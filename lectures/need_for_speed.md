@@ -67,9 +67,9 @@ Ví dụ như sẽ dễ dàng hơn nhiều nếu chúng ta sử dụng hàm tìm
 
 (Đối với những thuật toán thông thường, hiệu quả của thuật toán được tối đa hóa nếu cộng đồng có thể đóng góp trong những thành phần chính của thuật toán, viết bởi chuyên gia và tinh chỉnh bởi người dùng là cách tốt nhất để có một thư viện vừa nhanh vừa mạnh mẽ.)
 
-But this is not the only reason that we use Python's scientific libraries.
+Nhưng đó không phải là lí do duy nhất khiến chúng ta sử dụng thư viện tính toán khoa học của Python.
 
-Another is that pure Python, while flexible and elegant, is not fast.
+Một lí do khác là vì ngôn ngữ Python nguyên thuỷ mặc dù linh hoạt và trong sáng nhưng lại không nhanh.
 
 So we need libraries that are designed to accelerate execution of Python code.
 
