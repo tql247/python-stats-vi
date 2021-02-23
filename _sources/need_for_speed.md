@@ -46,7 +46,7 @@ Trong bài giảng này, chúng tôi đưa ra một giới thiệu tổng quan v
 * Thành phần chính của Python dành cho lập trình tính toán khoa học là gì?
 * How is the situation changing over time?
 
-Để nắm được có gì trong Anaconda, chúng ta cần cài đặt quantecon bằng lệnh sau:
+Ngoài những gì có sẵn trong Anaconda, chúng ta cần cài đặt thêm thư viện `quantecon` bằng lệnh sau:
 
 ```{code-cell} ipython
 ---
