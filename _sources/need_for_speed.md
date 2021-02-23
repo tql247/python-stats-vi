@@ -37,8 +37,7 @@ Python là một ngôn ngữ cực kỳ thông dụng dành cho khoa học tính
 * sự linh hoạt và dễ tiếp cận,
 * có sẵn một số lượng lớn thư viện tính toán với chất lượng cao,
 * ngôn ngữ lập trình và các thư viện hầu như đều là mã nguồn mỡ,
-* the popular Anaconda Python distribution, which simplifies installation and
-  management of those libraries, and
+* Anaconda là một bản phân phối phổ biến của Python, giúp đơn giản hoá việc cài đặt và quản lý các thư viện,
 * the recent surge of interest in using Python for machine learning and
   artificial intelligence.
 
