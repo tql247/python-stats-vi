@@ -1,7 +1,7 @@
 - file: intro
   numbered: true
 
-- part: Introduction to Python
+- part: Giới thiệu
   chapters:
     - file: about_py
     - file: getting_started
@@ -11,7 +11,7 @@
     - file: oop_intro
     - file: python_oop
 
-- part: The Scientific Libraries
+- part: Các thư viện tính toán khoa học
   chapters:
     - file: need_for_speed
     - file: numpy
@@ -21,7 +21,7 @@
     - file: parallelization
     - file: pandas
 
-- part: Advanced Python Programming
+- part: Lập trình Python nâng cao
   chapters:
     - file: writing_good_code
     - file: python_advanced_features
@@ -29,6 +29,6 @@
 
 # Placeholder for other pages
 
-- part: Other
+- part: Khác
   chapters:
     - file: troubleshooting
