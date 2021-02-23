@@ -74,6 +74,7 @@ Một lí do khác là vì ngôn ngữ Python nguyên thuỷ mặc dù linh ho�
 Vì thế ta cần những thư viện được thiết kế để tăng tốc thời gian thực thi mã nguồn Python.
 
 Như chúng ta có thể thấy ở dưới, những thư viện Python hiện nay có khả năng làm điều đó cực kỳ tốt.
+
 ### Python's Scientific Ecosystem
 
 In terms of popularity, the big four in the world of scientific Python
