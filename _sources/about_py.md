@@ -7,6 +7,7 @@ kernelspec:
   display_name: Python 3
   language: python
   name: python3
+published: true
 ---
 
 (about_py)=
@@ -21,7 +22,7 @@ kernelspec:
 ```{index} single: python
 ```
 
-# About Python
+# Giới thiệu Python
 
 ```{contents} Contents
 :depth: 2
@@ -501,4 +502,3 @@ Some representative examples include
 * Visit the [Python Package Index](https://pypi.org/).
 * View some of the questions people are asking about Python on [Stackoverflow](http://stackoverflow.com/questions/tagged/python).
 * Keep up to date on what's happening in the Python community with the [Python subreddit](https://www.reddit.com:443/r/Python/).
-
