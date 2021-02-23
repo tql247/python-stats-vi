@@ -59,7 +59,7 @@ tags: [hide-output]
 
 Chúng ta hãy xem xét sơ lượt các thư viện khoa học của Python, bắt đầu bằng việc trả lời câu hỏi tại sao chúng lại cần thiết.
 
-### The Role of Scientific Libraries
+### Vai trò của thư viện tính toán khoa học
 
 One obvious reason we use scientific libraries is because they implement
 routines we want to use.
