@@ -65,8 +65,7 @@ Một lí do rõ ràng cho việc sử dụng những thư viện dạng này l�
 
 Ví dụ như sẽ dễ dàng hơn nhiều nếu chúng ta sử dụng hàm tìm căn bậc hai được cung cấp sẵn thay vì tìm cách tự cài đặt nó từ đầu.
 
-(For standard algorithms, efficiency is maximized if the community can coordinate on a
-common set of implementations, written by experts and tuned by users to be as fast and robust as possible.)
+(Đối với những thuật toán thông thường, hiệu quả của thuật toán được tối đa hóa nếu cộng đồng có thể đóng góp trong những thành phần chính của thuật toán, viết bởi chuyên gia và tinh chỉnh bởi người dùng là cách tốt nhất để có một thư viện vừa nhanh vừa mạnh mẽ.)
 
 But this is not the only reason that we use Python's scientific libraries.
 
