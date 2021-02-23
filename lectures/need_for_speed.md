@@ -30,7 +30,7 @@ published: true
 premature optimization is the root of all evil." -- Donald Knuth
 ```
 
-## Overview
+## Tổng quan
 
 Python là một ngôn ngữ cực kỳ thông dụng dành cho khoa học tính toán bởi vì một số ưu thế sau:
 
