@@ -12,9 +12,9 @@ published: true
 
 # Lập trình Python cho kinh tế và tài chính
 
-Trang web này trình bày các bài giảng về lập trình Python cho kinh tết và tài chính, được thiết kế và biên soạn bởi [Thomas J. Sargent](http://www.tomsargent.com/) và [John Stachurski](http://johnstachurski.net/). Bản tiếng Việt được dịch và hiệu đính bởi [Deepa VN](https://deepa.vn). 
+Trang web này trình bày các bài giảng về lập trình Python cho kinh tế và tài chính, được thiết kế và biên soạn bởi [Thomas J. Sargent](http://www.tomsargent.com/) và [John Stachurski](http://johnstachurski.net/). Bản tiếng Việt được dịch và hiệu đính bởi [Deepa VN](https://deepa.vn). 
 
-Để xem tổng quan về chuỗi bài giảng, [xem tại đây](https://quantecon.org/python-lectures/)
+Xem tổng quan về chuỗi bài giảng [tại đây](https://quantecon.org/python-lectures/)
 
 ```{tableofcontents}
 ```
