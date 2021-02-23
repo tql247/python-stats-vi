@@ -84,8 +84,7 @@ Trong khía cạnh của sự phổ biến, "big four" những thư viện tính
 * Matplotlib
 * Pandas
 
-For us, there's another (relatively new) library that will also be essential for
-numerical computing:
+Với chúng ta, có một thư viện (mới gần đây) cũng sẽ được xem là thiết yếu cho tính toán số học:
 
 * Numba
 
