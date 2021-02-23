@@ -71,7 +71,7 @@ Nhưng đó không phải là lí do duy nhất khiến chúng ta sử dụng th
 
 Một lí do khác là vì ngôn ngữ Python nguyên thuỷ mặc dù linh hoạt và trong sáng nhưng lại không nhanh.
 
-So we need libraries that are designed to accelerate execution of Python code.
+Vì thế ta cần những thư viện được thiết kế để tăng tốc thời gian thực thi mã nguồn Python.
 
 As we'll see below, there are now Python libraries that can do this extremely well.
 
