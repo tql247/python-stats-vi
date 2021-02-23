@@ -55,10 +55,9 @@ tags: [hide-output]
 !conda install -y quantecon
 ```
 
-## Scientific Libraries
+## Thư viện khoa học
 
-Let's briefly review Python's scientific libraries, starting with why we need
-them.
+Chúng ta hãy xem xét sơ lượt các thư viện khoa học của Python, bắt đầu bằng việc trả lời câu hỏi tại sao chúng lại cần thiết.
 
 ### The Role of Scientific Libraries
 
