@@ -19,7 +19,7 @@ published: true
 </div>
 ```
 
-# Python for Scientific Computing
+# Python cho lập trình tính toán khoa học 
 
 ```{contents} Contents
 :depth: 2
