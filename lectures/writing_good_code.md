@@ -7,6 +7,7 @@ kernelspec:
   display_name: Python 3
   language: python
   name: python3
+published: true
 ---
 
 (writing_good_code)=
@@ -27,19 +28,19 @@ kernelspec:
 :depth: 2
 ```
 
-## Overview
+## Tổng quan
 
-When computer programs are small, poorly written code is not overly costly.
+Khi máy tính còn đơn giản, chưa quá cầu kỳ phức tạp, thì viết mã xấu sẽ không ảnh hưởng nhiều.
 
-But more data, more sophisticated models, and more computer power are enabling us to take on more challenging problems that involve writing longer programs.
+Tuy nhiêm với dữ liệu ngày một bao la, cộng thêm các mô hình ngày càng phức tạp và máy tính ngày một mạnh mẽ. Đã cho phép chúng đa giải quyết được các vấn đề khó khăn hơn với các đoạn mã dài và chi tiết hơn.
 
-For such programs, investment in good coding practices will pay high returns.
+Trong trường hợp đó, đầu tư vào việc thực hiện viết mã cho sạch, cho rõ ràng sẽ đem lại hiệu quả cao.
 
-The main payoffs are higher productivity and faster code.
+Mà hơn hết chính là chất lượng và tốc độ của việc viết mã.
 
-In this lecture, we review some elements of good coding practice.
+Trong bài này, chúng ta sẽ cùng xem qua các thành tố giúp viết mã chất lượng.
 
-We also touch on modern developments in scientific computing --- such as just in time compilation --- and how they affect good program design.
+Cùng với đó, xem xét ảnh hưởng của một chương trình có thiết kế tốt thông qua một ngôn ngữ lập trình hiện đại --- một chương trình biên dịch tức thời.
 
 ## An Example of Poor Code
 
@@ -481,4 +482,3 @@ eq.compute_equilibrium()
 ```{code-cell} ipython3
 eq.plot_equilibrium()
 ```
-
