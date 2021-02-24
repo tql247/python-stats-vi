@@ -42,7 +42,7 @@ Trong bài này, chúng ta sẽ cùng xem qua các thành tố giúp viết mã 
 
 Cùng với đó, xem xét ảnh hưởng của một chương trình có thiết kế tốt thông qua một ngôn ngữ lập trình hiện đại --- một chương trình biên dịch tức thời.
 
-## An Example of Poor Code
+## Một ví dụ của viết mã xấu
 
 Let's have a look at some poorly written code.
 
